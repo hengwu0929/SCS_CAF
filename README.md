@@ -1,6 +1,7 @@
 # SCS_CAF
 
 R scripts for the analysis of Single-cell RNA sequencing data of breast cancer-associated fibroblasts.
+**Title: Spatially and functionally distinct subclasses of breast cancer-associated ﬁbroblasts revealed by single cell RNA sequencing**
 
 1_QC.R
 2_Processing.R
